@@ -43,7 +43,9 @@ Myconnection.java - To connect the database
 TOOLS USED:
 
 Front end -  Java Swing
+
 Database  - Oracle 18c
+
 Platform used(Backend) - IntelliJ(Java)
 
 
