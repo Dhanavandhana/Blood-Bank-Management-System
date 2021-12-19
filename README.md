@@ -1,5 +1,6 @@
 # Blood Bank Management System
-                  Blood Bank Management System is designed to maintain the details of the blood groups and their availability in the hospitals and blood banks. It also stores the details of the patients who are in need of certain blood groups and donors. This system is concerned with the administrative and inventory management in blood bank.
+
+Summary:Blood Bank Management System is designed to maintain the details of the blood groups and their availability in the hospitals and blood banks. It also stores the details of the patients who are in need of certain blood groups and donors. This system is concerned with the administrative and inventory management in blood bank.
 
 DESCRIPTION OF THE FILES USED:
 
@@ -41,7 +42,7 @@ Myconnection.java - To connect the database
 
 TOOLS USED:
 
-Front end - Swing
+Front end -  Java Swing
 Database  - Oracle 18c
 Platform used(Backend) - IntelliJ(Java)
 
